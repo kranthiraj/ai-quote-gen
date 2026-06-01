@@ -1,0 +1,8 @@
+{
+  "name": "AI Quotation Builder",
+  "description": "AI-Powered enterprise Multi-Company Quotation Builder & Management system with interactive visual layouts, automatic GST and dynamic taxes, terms advisor, local JSON DB, statistics, and live multi-device simulation preview.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
